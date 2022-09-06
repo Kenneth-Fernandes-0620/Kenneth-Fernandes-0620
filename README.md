@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kenneth-Fernandes-0620
-- 👀 I’m interested in Java development for desktop applications {Linux and Windows}
-- 🌱 I’m currently learning JavaFX
+- 👀 I’m interested in Android and React JS
 - :briefcase:  Occupation: Student
 - :email: Email: kennethdominic57@gmail.com
 - :iphone: Phone: +91 9049806740
